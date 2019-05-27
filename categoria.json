@@ -1,0 +1,2514 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "success",
+    "content": [{
+            "id": 2475,
+            "link": "/secoes/C2475/bebes",
+            "name": "Bebês",
+            "icon": "/img/uploads/1/617/568617.jpg",
+            "subCategory": [{
+                    "id": 2496,
+                    "name": "Alimentação Infantil",
+                    "link": "/secoes/C2475/alimentacao-infantil?ftr=facetSubShelf_ss:2475_Alimentação Infantil",
+                    "bannerList": []
+                },
+                {
+                    "id": 2477,
+                    "name": "Condicionador e creme para os Cabelos",
+                    "link": "/secoes/C2475/condicionador-e-creme-para-os-cabelos?ftr=facetSubShelf_ss:2475_Condicionador e creme para os Cabelos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2478,
+                    "name": "Cuidados para o corpo",
+                    "link": "/secoes/C2475/cuidados-para-o-corpo?ftr=facetSubShelf_ss:2475_Cuidados para o corpo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2479,
+                    "name": "Fraldas",
+                    "link": "/secoes/C2475/fraldas?ftr=facetSubShelf_ss:2475_Fraldas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2480,
+                    "name": "Shampoo Infantil",
+                    "link": "/secoes/C2475/shampoo-infantil?ftr=facetSubShelf_ss:2475_Shampoo Infantil",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2515,
+                    "name": "Escova dental Infantil",
+                    "link": "/secoes/C2475/escova-dental-infantil?ftr=facetSubShelf_ss:2475_Escova dental Infantil",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4841,
+                    "name": "Lenços Umedecidos",
+                    "link": "/secoes/C2475/lencos-umedecidos?ftr=facetSubShelf_ss:2475_Lenços Umedecidos",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 127,
+            "link": "/secoes/C127/perfumaria",
+            "name": "Perfumaria",
+            "icon": "/img/uploads/1/618/568618.jpg",
+            "subCategory": [{
+                    "id": 2287,
+                    "name": "Absorventes",
+                    "link": "/secoes/C127/absorventes?ftr=facetSubShelf_ss:127_Absorventes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2268,
+                    "name": "Acessórios para banho",
+                    "link": "/secoes/C127/acessorios-para-banho?ftr=facetSubShelf_ss:127_Acessórios para banho",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2269,
+                    "name": "Acessórios para depilação",
+                    "link": "/secoes/C127/acessorios-para-depilacao?ftr=facetSubShelf_ss:127_Acessórios para depilação",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2292,
+                    "name": "Algodão e cotonetes",
+                    "link": "/secoes/C127/algodao-e-cotonetes?ftr=facetSubShelf_ss:127_Algodão e cotonetes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5221,
+                    "name": "Barba",
+                    "link": "/secoes/C127/barba?ftr=facetSubShelf_ss:127_Barba",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2240,
+                    "name": "Condicionadores anticaspa",
+                    "link": "/secoes/C127/condicionadores-anticaspa?ftr=facetSubShelf_ss:127_Condicionadores anticaspa",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2235,
+                    "name": "Condicionadores",
+                    "link": "/secoes/C127/condicionadores?ftr=facetSubShelf_ss:127_Condicionadores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2273,
+                    "name": "Cremes pré e pós-barba",
+                    "link": "/secoes/C127/cremes-pre-e-pos-barba?ftr=facetSubShelf_ss:127_Cremes pré e pós-barba",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2272,
+                    "name": "Desodorantes feminino",
+                    "link": "/secoes/C127/desodorantes-feminino?ftr=facetSubShelf_ss:127_Desodorantes feminino",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2275,
+                    "name": "Desodorantes masculino",
+                    "link": "/secoes/C127/desodorantes-masculino?ftr=facetSubShelf_ss:127_Desodorantes masculino",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2562,
+                    "name": "Drogaria",
+                    "link": "/secoes/C127/drogaria?ftr=facetSubShelf_ss:127_Drogaria",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2245,
+                    "name": "Fixadores",
+                    "link": "/secoes/C127/fixadores?ftr=facetSubShelf_ss:127_Fixadores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2288,
+                    "name": "Geriátricas",
+                    "link": "/secoes/C127/geriatricas?ftr=facetSubShelf_ss:127_Geriátricas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2252,
+                    "name": "Hidratação facial",
+                    "link": "/secoes/C127/hidratacao-facial?ftr=facetSubShelf_ss:127_Hidratação facial",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2260,
+                    "name": "Hidratantes e óleos corporais",
+                    "link": "/secoes/C127/hidratantes-e-oleos-corporais?ftr=facetSubShelf_ss:127_Hidratantes e óleos corporais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2256,
+                    "name": "Kits para aparelhos de barba",
+                    "link": "/secoes/C127/kits-para-aparelhos-de-barba?ftr=facetSubShelf_ss:127_Kits para aparelhos de barba",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2238,
+                    "name": "Kit shampoo",
+                    "link": "/secoes/C127/kit-shampoo?ftr=facetSubShelf_ss:127_Kit shampoo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2282,
+                    "name": "Lenços ",
+                    "link": "/secoes/C127/lencos-?ftr=facetSubShelf_ss:127_Lenços ",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2251,
+                    "name": "Limpeza e tonificação facial",
+                    "link": "/secoes/C127/limpeza-e-tonificacao-facial?ftr=facetSubShelf_ss:127_Limpeza e tonificação facial",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2247,
+                    "name": "Modeladores",
+                    "link": "/secoes/C127/modeladores?ftr=facetSubShelf_ss:127_Modeladores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2280,
+                    "name": "Papel higiênico",
+                    "link": "/secoes/C127/papel-higienico?ftr=facetSubShelf_ss:127_Papel higiênico",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2264,
+                    "name": "Protetor solar",
+                    "link": "/secoes/C127/protetor-solar?ftr=facetSubShelf_ss:127_Protetor solar",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2290,
+                    "name": "Repelentes",
+                    "link": "/secoes/C127/repelentes?ftr=facetSubShelf_ss:127_Repelentes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2258,
+                    "name": "Sabonetes",
+                    "link": "/secoes/C127/sabonetes?ftr=facetSubShelf_ss:127_Sabonetes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2239,
+                    "name": "Shampoos anticaspa e 2 em 1",
+                    "link": "/secoes/C127/shampoos-anticaspa-e-2-em-1?ftr=facetSubShelf_ss:127_Shampoos anticaspa e 2 em 1",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2301,
+                    "name": "Shampoos",
+                    "link": "/secoes/C127/shampoos?ftr=facetSubShelf_ss:127_Shampoos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2278,
+                    "name": "Talcos",
+                    "link": "/secoes/C127/talcos?ftr=facetSubShelf_ss:127_Talcos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2249,
+                    "name": "Tratamentos e reparações ",
+                    "link": "/secoes/C127/tratamentos-e-reparacoes-?ftr=facetSubShelf_ss:127_Tratamentos e reparações ",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 145,
+            "link": "/secoes/C145/limpeza",
+            "name": "Limpeza",
+            "icon": "/img/uploads/1/619/568619.jpg",
+            "subCategory": [{
+                    "id": 2321,
+                    "name": "Alvejante e água sanitária",
+                    "link": "/secoes/C145/alvejante-e-agua-sanitaria?ftr=facetSubShelf_ss:145_Alvejante e água sanitária",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2320,
+                    "name": "Amaciantes",
+                    "link": "/secoes/C145/amaciantes?ftr=facetSubShelf_ss:145_Amaciantes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2322,
+                    "name": "Tira manchas",
+                    "link": "/secoes/C145/tira-manchas?ftr=facetSubShelf_ss:145_Tira manchas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2330,
+                    "name": "Detergentes",
+                    "link": "/secoes/C145/detergentes?ftr=facetSubShelf_ss:145_Detergentes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2138,
+                    "name": "Sabão em pó",
+                    "link": "/secoes/C145/sabao-em-po?ftr=facetSubShelf_ss:145_Sabão em pó",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2318,
+                    "name": "Sabão em barra",
+                    "link": "/secoes/C145/sabao-em-barra?ftr=facetSubShelf_ss:145_Sabão em barra",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2315,
+                    "name": "Sabão líquido",
+                    "link": "/secoes/C145/sabao-liquido?ftr=facetSubShelf_ss:145_Sabão líquido",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2332,
+                    "name": "Sabão de cozinha",
+                    "link": "/secoes/C145/sabao-de-cozinha?ftr=facetSubShelf_ss:145_Sabão de cozinha",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2335,
+                    "name": "Desinfetantes para banheiro",
+                    "link": "/secoes/C145/desinfetantes-para-banheiro?ftr=facetSubShelf_ss:145_Desinfetantes para banheiro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2331,
+                    "name": "Desengordurantes e limpa alumínios",
+                    "link": "/secoes/C145/desengordurantes-e-limpa-aluminios?ftr=facetSubShelf_ss:145_Desengordurantes e limpa alumínios",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2334,
+                    "name": "Limpadores para banheiro",
+                    "link": "/secoes/C145/limpadores-para-banheiro?ftr=facetSubShelf_ss:145_Limpadores para banheiro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2338,
+                    "name": "Limpadores para sala",
+                    "link": "/secoes/C145/limpadores-para-sala?ftr=facetSubShelf_ss:145_Limpadores para sala",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 3619,
+                    "name": "Saco para lixo",
+                    "link": "/secoes/C145/saco-para-lixo?ftr=facetSubShelf_ss:145_Saco para lixo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2341,
+                    "name": "Inseticidas",
+                    "link": "/secoes/C145/inseticidas?ftr=facetSubShelf_ss:145_Inseticidas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2339,
+                    "name": "Ceras e removedores",
+                    "link": "/secoes/C145/ceras-e-removedores?ftr=facetSubShelf_ss:145_Ceras e removedores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2348,
+                    "name": "Vassouras e rodos",
+                    "link": "/secoes/C145/vassouras-e-rodos?ftr=facetSubShelf_ss:145_Vassouras e rodos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2346,
+                    "name": "Lixeiras e baldes",
+                    "link": "/secoes/C145/lixeiras-e-baldes?ftr=facetSubShelf_ss:145_Lixeiras e baldes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2345,
+                    "name": "Acessórios de banheiro",
+                    "link": "/secoes/C145/acessorios-de-banheiro?ftr=facetSubShelf_ss:145_Acessórios de banheiro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2343,
+                    "name": "Acessórios de cozinha",
+                    "link": "/secoes/C145/acessorios-de-cozinha?ftr=facetSubShelf_ss:145_Acessórios de cozinha",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2324,
+                    "name": "Acessórios para lavanderia",
+                    "link": "/secoes/C145/acessorios-para-lavanderia?ftr=facetSubShelf_ss:145_Acessórios para lavanderia",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2340,
+                    "name": "Aromatização e purificação do ar",
+                    "link": "/secoes/C145/aromatizacao-e-purificacao-do-ar?ftr=facetSubShelf_ss:145_Aromatização e purificação do ar",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2561,
+                    "name": "Descartáveis para casa",
+                    "link": "/secoes/C145/descartaveis-para-casa?ftr=facetSubShelf_ss:145_Descartáveis para casa",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2336,
+                    "name": "Desodorizador para banheiro",
+                    "link": "/secoes/C145/desodorizador-para-banheiro?ftr=facetSubShelf_ss:145_Desodorizador para banheiro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2323,
+                    "name": "Facilitador de passar e goma",
+                    "link": "/secoes/C145/facilitador-de-passar-e-goma?ftr=facetSubShelf_ss:145_Facilitador de passar e goma",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2353,
+                    "name": "Lâmpadas",
+                    "link": "/secoes/C145/lampadas?ftr=facetSubShelf_ss:145_Lâmpadas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2349,
+                    "name": "Luvas e panos de limpeza",
+                    "link": "/secoes/C145/luvas-e-panos-de-limpeza?ftr=facetSubShelf_ss:145_Luvas e panos de limpeza",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2328,
+                    "name": "Organizadores",
+                    "link": "/secoes/C145/organizadores?ftr=facetSubShelf_ss:145_Organizadores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2337,
+                    "name": "Outros utensílios para banheiro",
+                    "link": "/secoes/C145/outros-utensilios-para-banheiro?ftr=facetSubShelf_ss:145_Outros utensílios para banheiro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2355,
+                    "name": "Pilhas e baterias",
+                    "link": "/secoes/C145/pilhas-e-baterias?ftr=facetSubShelf_ss:145_Pilhas e baterias",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5201,
+                    "name": "Jardinagem",
+                    "link": "/secoes/C145/jardinagem?ftr=facetSubShelf_ss:145_Jardinagem",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2357,
+                    "name": "Reparos domésticos",
+                    "link": "/secoes/C145/reparos-domesticos?ftr=facetSubShelf_ss:145_Reparos domésticos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2342,
+                    "name": "Utensílios para churrasco",
+                    "link": "/secoes/C145/utensilios-para-churrasco?ftr=facetSubShelf_ss:145_Utensílios para churrasco",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 312,
+            "link": "/secoes/C312/alimentos",
+            "name": "Alimentos",
+            "icon": "/img/uploads/1/620/568620.jpg",
+            "subCategory": [{
+                    "id": 2142,
+                    "name": "Açúcar",
+                    "link": "/secoes/C312/acucar?ftr=facetSubShelf_ss:312_Açúcar",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2144,
+                    "name": "Adoçantes",
+                    "link": "/secoes/C312/adocantes?ftr=facetSubShelf_ss:312_Adoçantes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2117,
+                    "name": "Arroz Comum",
+                    "link": "/secoes/C312/arroz-comum?ftr=facetSubShelf_ss:312_Arroz Comum",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2124,
+                    "name": "Arroz Especial",
+                    "link": "/secoes/C312/arroz-especial?ftr=facetSubShelf_ss:312_Arroz Especial",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2139,
+                    "name": "Cremes",
+                    "link": "/secoes/C312/cremes?ftr=facetSubShelf_ss:312_Cremes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2125,
+                    "name": "Feijão",
+                    "link": "/secoes/C312/feijao?ftr=facetSubShelf_ss:312_Feijão",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2127,
+                    "name": "Massas com Ovos e Massas de Sêmola",
+                    "link": "/secoes/C312/massas-com-ovos-e-massas-de-semola?ftr=facetSubShelf_ss:312_Massas com Ovos e Massas de Sêmola",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2129,
+                    "name": "Massas de Grano Duro",
+                    "link": "/secoes/C312/massas-de-grano-duro?ftr=facetSubShelf_ss:312_Massas de Grano Duro",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2130,
+                    "name": "Massas Caseiras e Integrais",
+                    "link": "/secoes/C312/massas-caseiras-e-integrais?ftr=facetSubShelf_ss:312_Massas Caseiras e Integrais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2131,
+                    "name": "Massas para Lasanha",
+                    "link": "/secoes/C312/massas-para-lasanha?ftr=facetSubShelf_ss:312_Massas para Lasanha",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2133,
+                    "name": "Macarrão Instantâneo",
+                    "link": "/secoes/C312/macarrao-instantaneo?ftr=facetSubShelf_ss:312_Macarrão Instantâneo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2141,
+                    "name": "Óleos",
+                    "link": "/secoes/C312/oleos?ftr=facetSubShelf_ss:312_Óleos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2145,
+                    "name": "Sal",
+                    "link": "/secoes/C312/sal?ftr=facetSubShelf_ss:312_Sal",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2135,
+                    "name": "Sopão",
+                    "link": "/secoes/C312/sopao?ftr=facetSubShelf_ss:312_Sopão",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2136,
+                    "name": "Sopas Prontas",
+                    "link": "/secoes/C312/sopas-prontas?ftr=facetSubShelf_ss:312_Sopas Prontas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2137,
+                    "name": "Sopas Individuais",
+                    "link": "/secoes/C312/sopas-individuais?ftr=facetSubShelf_ss:312_Sopas Individuais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2146,
+                    "name": "Vinagres e agrin",
+                    "link": "/secoes/C312/vinagres-e-agrin?ftr=facetSubShelf_ss:312_Vinagres e agrin",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 76,
+            "link": "/secoes/C76/bebidas",
+            "name": "Bebidas",
+            "icon": "/img/uploads/1/621/568621.jpg",
+            "subCategory": [{
+                    "id": 2352,
+                    "name": "Água com gás",
+                    "link": "/secoes/C76/agua-com-gas?ftr=facetSubShelf_ss:76_Água com gás",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2354,
+                    "name": "Água",
+                    "link": "/secoes/C76/agua?ftr=facetSubShelf_ss:76_Água",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2311,
+                    "name": "Bebida à base de soja",
+                    "link": "/secoes/C76/bebida-a-base-de-soja?ftr=facetSubShelf_ss:76_Bebida à base de soja",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2347,
+                    "name": "Bebidas gaseficadas",
+                    "link": "/secoes/C76/bebidas-gaseficadas?ftr=facetSubShelf_ss:76_Bebidas gaseficadas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2306,
+                    "name": "Bebidas mistas",
+                    "link": "/secoes/C76/bebidas-mistas?ftr=facetSubShelf_ss:76_Bebidas mistas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2350,
+                    "name": "Chás prontos e água de coco",
+                    "link": "/secoes/C76/chas-prontos-e-agua-de-coco?ftr=facetSubShelf_ss:76_Chás prontos e água de coco",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2312,
+                    "name": "Energéticos e isotônicos",
+                    "link": "/secoes/C76/energeticos-e-isotonicos?ftr=facetSubShelf_ss:76_Energéticos e isotônicos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2309,
+                    "name": "Refrescos em pó",
+                    "link": "/secoes/C76/refrescos-em-po?ftr=facetSubShelf_ss:76_Refrescos em pó",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2316,
+                    "name": "Refrigerantes cola",
+                    "link": "/secoes/C76/refrigerantes-cola?ftr=facetSubShelf_ss:76_Refrigerantes cola",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2319,
+                    "name": "Refrigerantes de outros sabores",
+                    "link": "/secoes/C76/refrigerantes-de-outros-sabores?ftr=facetSubShelf_ss:76_Refrigerantes de outros sabores",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2317,
+                    "name": "Refrigerantes guaraná",
+                    "link": "/secoes/C76/refrigerantes-guarana?ftr=facetSubShelf_ss:76_Refrigerantes guaraná",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2120,
+                    "name": "Sucos ",
+                    "link": "/secoes/C76/sucos-?ftr=facetSubShelf_ss:76_Sucos ",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2307,
+                    "name": "Sucos concentrados",
+                    "link": "/secoes/C76/sucos-concentrados?ftr=facetSubShelf_ss:76_Sucos concentrados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2344,
+                    "name": "Tônicas",
+                    "link": "/secoes/C76/tonicas?ftr=facetSubShelf_ss:76_Tônicas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5181,
+                    "name": "Cápsulas de Cafés e Chás",
+                    "link": "/secoes/C76/capsulas-de-cafes-e-chas?ftr=facetSubShelf_ss:76_Cápsulas de Cafés e Chás",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 975,
+            "link": "/secoes/C975/carnes",
+            "name": "Carnes",
+            "icon": "/img/uploads/1/622/568622.jpg",
+            "subCategory": [{
+                    "id": 2228,
+                    "name": "Aves congeladas",
+                    "link": "/secoes/C975/aves-congeladas?ftr=facetSubShelf_ss:975_Aves congeladas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2229,
+                    "name": "Aves resfriadas",
+                    "link": "/secoes/C975/aves-resfriadas?ftr=facetSubShelf_ss:975_Aves resfriadas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2237,
+                    "name": "Bacalhau e outros peixes salgados",
+                    "link": "/secoes/C975/bacalhau-e-outros-peixes-salgados?ftr=facetSubShelf_ss:975_Bacalhau e outros peixes salgados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2225,
+                    "name": "Carne bovina",
+                    "link": "/secoes/C975/carne-bovina?ftr=facetSubShelf_ss:975_Carne bovina",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2226,
+                    "name": "Carne bovina orgânica",
+                    "link": "/secoes/C975/carne-bovina-organica?ftr=facetSubShelf_ss:975_Carne bovina orgânica",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2233,
+                    "name": "Carnes especiais",
+                    "link": "/secoes/C975/carnes-especiais?ftr=facetSubShelf_ss:975_Carnes especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2227,
+                    "name": "Carne suína",
+                    "link": "/secoes/C975/carne-suina?ftr=facetSubShelf_ss:975_Carne suína",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2230,
+                    "name": "Defumados",
+                    "link": "/secoes/C975/defumados?ftr=facetSubShelf_ss:975_Defumados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2234,
+                    "name": "Frutos do mar",
+                    "link": "/secoes/C975/frutos-do-mar?ftr=facetSubShelf_ss:975_Frutos do mar",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2236,
+                    "name": "Peixes congelados",
+                    "link": "/secoes/C975/peixes-congelados?ftr=facetSubShelf_ss:975_Peixes congelados",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 189,
+            "link": "/secoes/C189/pet",
+            "name": "Pet",
+            "icon": "/img/uploads/1/624/568624.jpg",
+            "subCategory": [{
+                    "id": 2151,
+                    "name": "Acessórios para cães",
+                    "link": "/secoes/C189/acessorios-para-caes?ftr=facetSubShelf_ss:189_Acessórios para cães",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4781,
+                    "name": "Bifinhos e snacks para gatos",
+                    "link": "/secoes/C189/bifinhos-e-snacks-para-gatos?ftr=facetSubShelf_ss:189_Bifinhos e snacks para gatos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4802,
+                    "name": "Bifinhos e snacks para cães",
+                    "link": "/secoes/C189/bifinhos-e-snacks-para-caes?ftr=facetSubShelf_ss:189_Bifinhos e snacks para cães",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4785,
+                    "name": "Brinquedos",
+                    "link": "/secoes/C189/brinquedos?ftr=facetSubShelf_ss:189_Brinquedos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4801,
+                    "name": "Limpeza pet",
+                    "link": "/secoes/C189/limpeza-pet?ftr=facetSubShelf_ss:189_Limpeza pet",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4782,
+                    "name": "Medicamentos pet",
+                    "link": "/secoes/C189/medicamentos-pet?ftr=facetSubShelf_ss:189_Medicamentos pet",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2150,
+                    "name": "Higiene Pet",
+                    "link": "/secoes/C189/higiene-pet?ftr=facetSubShelf_ss:189_Higiene Pet",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4804,
+                    "name": "Ração para cães filhotes",
+                    "link": "/secoes/C189/racao-para-caes-filhotes?ftr=facetSubShelf_ss:189_Ração para cães filhotes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4805,
+                    "name": "Ração para cães adultos",
+                    "link": "/secoes/C189/racao-para-caes-adultos?ftr=facetSubShelf_ss:189_Ração para cães adultos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4786,
+                    "name": "Ração para gatos",
+                    "link": "/secoes/C189/racao-para-gatos?ftr=facetSubShelf_ss:189_Ração para gatos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4803,
+                    "name": "Ração para pássaros",
+                    "link": "/secoes/C189/racao-para-passaros?ftr=facetSubShelf_ss:189_Ração para pássaros",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 12,
+            "link": "/secoes/C12/feira",
+            "name": "Feira",
+            "icon": "/img/uploads/1/623/568623.jpg",
+            "subCategory": [{
+                    "id": 2242,
+                    "name": "Banana",
+                    "link": "/secoes/C12/banana?ftr=facetSubShelf_ss:12_Banana",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2305,
+                    "name": "Cogumelos e Derivados de Soja",
+                    "link": "/secoes/C12/cogumelos-e-derivados-de-soja?ftr=facetSubShelf_ss:12_Cogumelos e Derivados de Soja",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2284,
+                    "name": "Cebola e alho",
+                    "link": "/secoes/C12/cebola-e-alho?ftr=facetSubShelf_ss:12_Cebola e alho",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2299,
+                    "name": "Folhagens e processados orgânicos",
+                    "link": "/secoes/C12/folhagens-e-processados-organicos?ftr=facetSubShelf_ss:12_Folhagens e processados orgânicos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2261,
+                    "name": "Frutas cítricas",
+                    "link": "/secoes/C12/frutas-citricas?ftr=facetSubShelf_ss:12_Frutas cítricas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2267,
+                    "name": "Frutas especiais",
+                    "link": "/secoes/C12/frutas-especiais?ftr=facetSubShelf_ss:12_Frutas especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2274,
+                    "name": "Frutas orgânicas",
+                    "link": "/secoes/C12/frutas-organicas?ftr=facetSubShelf_ss:12_Frutas orgânicas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2276,
+                    "name": "Frutas secas e processadas",
+                    "link": "/secoes/C12/frutas-secas-e-processadas?ftr=facetSubShelf_ss:12_Frutas secas e processadas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2263,
+                    "name": "Frutas tropicais",
+                    "link": "/secoes/C12/frutas-tropicais?ftr=facetSubShelf_ss:12_Frutas tropicais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2303,
+                    "name": "Hortaliças para tempero",
+                    "link": "/secoes/C12/hortalicas-para-tempero?ftr=facetSubShelf_ss:12_Hortaliças para tempero",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2281,
+                    "name": "Legumes desembalados",
+                    "link": "/secoes/C12/legumes-desembalados?ftr=facetSubShelf_ss:12_Legumes desembalados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2286,
+                    "name": "Legumes orgânicos",
+                    "link": "/secoes/C12/legumes-organicos?ftr=facetSubShelf_ss:12_Legumes orgânicos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2289,
+                    "name": "Legumes embalados",
+                    "link": "/secoes/C12/legumes-embalados?ftr=facetSubShelf_ss:12_Legumes embalados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2244,
+                    "name": "Maçã",
+                    "link": "/secoes/C12/maca?ftr=facetSubShelf_ss:12_Maçã",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2254,
+                    "name": "Mamão",
+                    "link": "/secoes/C12/mamao?ftr=facetSubShelf_ss:12_Mamão",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2257,
+                    "name": "Melão e melancia",
+                    "link": "/secoes/C12/melao-e-melancia?ftr=facetSubShelf_ss:12_Melão e melancia",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2304,
+                    "name": "Ovos",
+                    "link": "/secoes/C12/ovos?ftr=facetSubShelf_ss:12_Ovos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2310,
+                    "name": "Outros hortifrutis",
+                    "link": "/secoes/C12/outros-hortifrutis?ftr=facetSubShelf_ss:12_Outros hortifrutis",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2246,
+                    "name": "Pêra",
+                    "link": "/secoes/C12/pera?ftr=facetSubShelf_ss:12_Pêra",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2308,
+                    "name": "Temperos embalados e processados",
+                    "link": "/secoes/C12/temperos-embalados-e-processados?ftr=facetSubShelf_ss:12_Temperos embalados e processados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2259,
+                    "name": "Uva",
+                    "link": "/secoes/C12/uva?ftr=facetSubShelf_ss:12_Uva",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2296,
+                    "name": "Verduras",
+                    "link": "/secoes/C12/verduras?ftr=facetSubShelf_ss:12_Verduras",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 4481,
+            "link": "/secoes/C4481/pascoa",
+            "name": "Páscoa",
+            "icon": "/img/uploads/1/175/486175.jpg",
+            "subCategory": [{
+                    "id": 4482,
+                    "name": "Ovos de Páscoa ao Leite",
+                    "link": "/secoes/C4481/ovos-de-pascoa-ao-leite?ftr=facetSubShelf_ss:4481_Ovos de Páscoa ao Leite",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4483,
+                    "name": "Ovos de Páscoa Brancos",
+                    "link": "/secoes/C4481/ovos-de-pascoa-brancos?ftr=facetSubShelf_ss:4481_Ovos de Páscoa Brancos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4485,
+                    "name": "Ovos de Páscoa Infantis",
+                    "link": "/secoes/C4481/ovos-de-pascoa-infantis?ftr=facetSubShelf_ss:4481_Ovos de Páscoa Infantis",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4501,
+                    "name": "Ovos de Páscoa Diet e Light",
+                    "link": "/secoes/C4481/ovos-de-pascoa-diet-e-light?ftr=facetSubShelf_ss:4481_Ovos de Páscoa Diet e Light",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4484,
+                    "name": "Colomba Pascal",
+                    "link": "/secoes/C4481/colomba-pascal?ftr=facetSubShelf_ss:4481_Colomba Pascal",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 114,
+            "link": "/secoes/C114/bebidas-alcoolicas",
+            "name": "Bebidas alcóolicas",
+            "icon": "/img/uploads/1/22/449022.jpg",
+            "subCategory": [{
+                    "id": 2397,
+                    "name": "Aguardente, saquês e tequilas",
+                    "link": "/secoes/C114/aguardente-saques-e-tequilas?ftr=facetSubShelf_ss:114_Aguardente, saquês e tequilas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2366,
+                    "name": "Cervejas",
+                    "link": "/secoes/C114/cervejas?ftr=facetSubShelf_ss:114_Cervejas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2378,
+                    "name": "Cervejas Especiais",
+                    "link": "/secoes/C114/cervejas-especiais?ftr=facetSubShelf_ss:114_Cervejas Especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2400,
+                    "name": "Conhaque, licor e rum",
+                    "link": "/secoes/C114/conhaque-licor-e-rum?ftr=facetSubShelf_ss:114_Conhaque, licor e rum",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2395,
+                    "name": "Espumantes",
+                    "link": "/secoes/C114/espumantes?ftr=facetSubShelf_ss:114_Espumantes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2382,
+                    "name": "Vinhos brancos argentinos e chilenos",
+                    "link": "/secoes/C114/vinhos-brancos-argentinos-e-chilenos?ftr=facetSubShelf_ss:114_Vinhos brancos argentinos e chilenos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2384,
+                    "name": "Vinhos brancos europeus",
+                    "link": "/secoes/C114/vinhos-brancos-europeus?ftr=facetSubShelf_ss:114_Vinhos brancos europeus",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2388,
+                    "name": "Vinhos brancos nacionais e de outros países",
+                    "link": "/secoes/C114/vinhos-brancos-nacionais-e-de-outros-paises?ftr=facetSubShelf_ss:114_Vinhos brancos nacionais e de outros países",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2389,
+                    "name": "Vinhos tintos argentinos",
+                    "link": "/secoes/C114/vinhos-tintos-argentinos?ftr=facetSubShelf_ss:114_Vinhos tintos argentinos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2392,
+                    "name": "Vinhos tintos chilenos",
+                    "link": "/secoes/C114/vinhos-tintos-chilenos?ftr=facetSubShelf_ss:114_Vinhos tintos chilenos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2393,
+                    "name": "Vinhos tintos europeus",
+                    "link": "/secoes/C114/vinhos-tintos-europeus?ftr=facetSubShelf_ss:114_Vinhos tintos europeus",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2394,
+                    "name": "Vinhos tintos nacionais e de outros países",
+                    "link": "/secoes/C114/vinhos-tintos-nacionais-e-de-outros-paises?ftr=facetSubShelf_ss:114_Vinhos tintos nacionais e de outros países",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2398,
+                    "name": "Vodkas",
+                    "link": "/secoes/C114/vodkas?ftr=facetSubShelf_ss:114_Vodkas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2399,
+                    "name": "Whisky",
+                    "link": "/secoes/C114/whisky?ftr=facetSubShelf_ss:114_Whisky",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 5021,
+            "link": "/secoes/C5021/farmacia",
+            "name": "Farmácia",
+            "icon": "/img/uploads/1/676/568676.jpg",
+            "subCategory": [{
+                    "id": 5022,
+                    "name": "Preservativo",
+                    "link": "/secoes/C5021/preservativo?ftr=facetSubShelf_ss:5021_Preservativo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5041,
+                    "name": "Suplementos Alimentares",
+                    "link": "/secoes/C5021/suplementos-alimentares?ftr=facetSubShelf_ss:5021_Suplementos Alimentares",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5042,
+                    "name": "Inaladores e Nebulizador",
+                    "link": "/secoes/C5021/inaladores-e-nebulizador?ftr=facetSubShelf_ss:5021_Inaladores e Nebulizador",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5043,
+                    "name": "Medidores de Pressão",
+                    "link": "/secoes/C5021/medidores-de-pressao?ftr=facetSubShelf_ss:5021_Medidores de Pressão",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5044,
+                    "name": "Balanças ",
+                    "link": "/secoes/C5021/balancas-?ftr=facetSubShelf_ss:5021_Balanças ",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5061,
+                    "name": "Proteínas",
+                    "link": "/secoes/C5021/proteinas?ftr=facetSubShelf_ss:5021_Proteínas",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 1575,
+            "link": "/secoes/C1575/matinais",
+            "name": "Matinais",
+            "icon": "/img/uploads/1/625/568625.jpg",
+            "subCategory": [{
+                    "id": 2157,
+                    "name": "Achocolatados em pó",
+                    "link": "/secoes/C1575/achocolatados-em-po?ftr=facetSubShelf_ss:1575_Achocolatados em pó",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2156,
+                    "name": "Achocolatados líquidos",
+                    "link": "/secoes/C1575/achocolatados-liquidos?ftr=facetSubShelf_ss:1575_Achocolatados líquidos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2171,
+                    "name": "Biscoitos amanteigados e finos",
+                    "link": "/secoes/C1575/biscoitos-amanteigados-e-finos?ftr=facetSubShelf_ss:1575_Biscoitos amanteigados e finos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2170,
+                    "name": "Biscoitos doces",
+                    "link": "/secoes/C1575/biscoitos-doces?ftr=facetSubShelf_ss:1575_Biscoitos doces",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2174,
+                    "name": "Biscoitos salgados",
+                    "link": "/secoes/C1575/biscoitos-salgados?ftr=facetSubShelf_ss:1575_Biscoitos salgados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2172,
+                    "name": "Biscoitos doces recheadas",
+                    "link": "/secoes/C1575/biscoitos-doces-recheadas?ftr=facetSubShelf_ss:1575_Biscoitos doces recheadas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2158,
+                    "name": "Café em pó",
+                    "link": "/secoes/C1575/cafe-em-po?ftr=facetSubShelf_ss:1575_Café em pó",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2159,
+                    "name": "Café solúvel",
+                    "link": "/secoes/C1575/cafe-soluvel?ftr=facetSubShelf_ss:1575_Café solúvel",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2160,
+                    "name": "Café em grãos",
+                    "link": "/secoes/C1575/cafe-em-graos?ftr=facetSubShelf_ss:1575_Café em grãos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2161,
+                    "name": "Capuccinos e  mixes",
+                    "link": "/secoes/C1575/capuccinos-e--mixes?ftr=facetSubShelf_ss:1575_Capuccinos e  mixes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2164,
+                    "name": "Chá de flores e frutas",
+                    "link": "/secoes/C1575/cha-de-flores-e-frutas?ftr=facetSubShelf_ss:1575_Chá de flores e frutas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2162,
+                    "name": "Chá mates e outras ervas",
+                    "link": "/secoes/C1575/cha-mates-e-outras-ervas?ftr=facetSubShelf_ss:1575_Chá mates e outras ervas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2163,
+                    "name": "Chá verde, branco e preto",
+                    "link": "/secoes/C1575/cha-verde-branco-e-preto?ftr=facetSubShelf_ss:1575_Chá verde, branco e preto",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2179,
+                    "name": "Cereais",
+                    "link": "/secoes/C1575/cereais?ftr=facetSubShelf_ss:1575_Cereais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2173,
+                    "name": "Cookies e waffers",
+                    "link": "/secoes/C1575/cookies-e-waffers?ftr=facetSubShelf_ss:1575_Cookies e waffers",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2177,
+                    "name": "Geléias",
+                    "link": "/secoes/C1575/geleias?ftr=facetSubShelf_ss:1575_Geléias",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2178,
+                    "name": "Geléias especiais",
+                    "link": "/secoes/C1575/geleias-especiais?ftr=facetSubShelf_ss:1575_Geléias especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2118,
+                    "name": "Iogurtes funcionais",
+                    "link": "/secoes/C1575/iogurtes-funcionais?ftr=facetSubShelf_ss:1575_Iogurtes funcionais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2165,
+                    "name": "Iogurtes naturais",
+                    "link": "/secoes/C1575/iogurtes-naturais?ftr=facetSubShelf_ss:1575_Iogurtes naturais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2166,
+                    "name": "Iogurtes batidos",
+                    "link": "/secoes/C1575/iogurtes-batidos?ftr=facetSubShelf_ss:1575_Iogurtes batidos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2167,
+                    "name": "Iogurtes diet",
+                    "link": "/secoes/C1575/iogurtes-diet?ftr=facetSubShelf_ss:1575_Iogurtes diet",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2155,
+                    "name": "Leite em pó",
+                    "link": "/secoes/C1575/leite-em-po?ftr=facetSubShelf_ss:1575_Leite em pó",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2154,
+                    "name": "Leites especiais",
+                    "link": "/secoes/C1575/leites-especiais?ftr=facetSubShelf_ss:1575_Leites especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2153,
+                    "name": "Leite tradicional",
+                    "link": "/secoes/C1575/leite-tradicional?ftr=facetSubShelf_ss:1575_Leite tradicional",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2168,
+                    "name": "Manteigas e margarinas",
+                    "link": "/secoes/C1575/manteigas-e-margarinas?ftr=facetSubShelf_ss:1575_Manteigas e margarinas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2176,
+                    "name": "Mel",
+                    "link": "/secoes/C1575/mel?ftr=facetSubShelf_ss:1575_Mel",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2169,
+                    "name": "Requeijão e cream cheese",
+                    "link": "/secoes/C1575/requeijao-e-cream-cheese?ftr=facetSubShelf_ss:1575_Requeijão e cream cheese",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2175,
+                    "name": "Torradas",
+                    "link": "/secoes/C1575/torradas?ftr=facetSubShelf_ss:1575_Torradas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 3659,
+                    "name": "Bebidas lácteas",
+                    "link": "/secoes/C1575/bebidas-lacteas?ftr=facetSubShelf_ss:1575_Bebidas lácteas",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 105,
+            "link": "/secoes/C105/congelados",
+            "name": "Congelados",
+            "icon": "/img/uploads/1/626/568626.jpg",
+            "subCategory": [{
+                    "id": 2196,
+                    "name": "Acompanhamentos congelados",
+                    "link": "/secoes/C105/acompanhamentos-congelados?ftr=facetSubShelf_ss:105_Acompanhamentos congelados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2195,
+                    "name": "Aperitivos congelados",
+                    "link": "/secoes/C105/aperitivos-congelados?ftr=facetSubShelf_ss:105_Aperitivos congelados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2201,
+                    "name": "Bebidas congeladas",
+                    "link": "/secoes/C105/bebidas-congeladas?ftr=facetSubShelf_ss:105_Bebidas congeladas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2197,
+                    "name": "Pratos prontos",
+                    "link": "/secoes/C105/pratos-prontos?ftr=facetSubShelf_ss:105_Pratos prontos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2202,
+                    "name": "Sobremesas congeladas",
+                    "link": "/secoes/C105/sobremesas-congeladas?ftr=facetSubShelf_ss:105_Sobremesas congeladas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2204,
+                    "name": "Sorvetes",
+                    "link": "/secoes/C105/sorvetes?ftr=facetSubShelf_ss:105_Sorvetes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2199,
+                    "name": "Vegetais congelados",
+                    "link": "/secoes/C105/vegetais-congelados?ftr=facetSubShelf_ss:105_Vegetais congelados",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 85,
+            "link": "/secoes/C85/padaria",
+            "name": "Padaria",
+            "icon": "/img/uploads/1/627/568627.jpg",
+            "subCategory": [{
+                    "id": 2387,
+                    "name": "Biscoitos e torradas",
+                    "link": "/secoes/C85/biscoitos-e-torradas?ftr=facetSubShelf_ss:85_Biscoitos e torradas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2391,
+                    "name": "Bolos industralizados",
+                    "link": "/secoes/C85/bolos-industralizados?ftr=facetSubShelf_ss:85_Bolos industralizados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2390,
+                    "name": "Bolos, tortas e doces",
+                    "link": "/secoes/C85/bolos-tortas-e-doces?ftr=facetSubShelf_ss:85_Bolos, tortas e doces",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2386,
+                    "name": "Pães de forma industrializados",
+                    "link": "/secoes/C85/paes-de-forma-industrializados?ftr=facetSubShelf_ss:85_Pães de forma industrializados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2383,
+                    "name": "Pães doces industrializados",
+                    "link": "/secoes/C85/paes-doces-industrializados?ftr=facetSubShelf_ss:85_Pães doces industrializados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2380,
+                    "name": "Pães para lanches",
+                    "link": "/secoes/C85/paes-para-lanches?ftr=facetSubShelf_ss:85_Pães para lanches",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2123,
+                    "name": "Pães salgados",
+                    "link": "/secoes/C85/paes-salgados?ftr=facetSubShelf_ss:85_Pães salgados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2385,
+                    "name": "Pães saudáveis industrializados",
+                    "link": "/secoes/C85/paes-saudaveis-industrializados?ftr=facetSubShelf_ss:85_Pães saudáveis industrializados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5101,
+                    "name": "Biscoitos amanteigados e finos",
+                    "link": "/secoes/C85/biscoitos-amanteigados-e-finos?ftr=facetSubShelf_ss:85_Biscoitos amanteigados e finos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5121,
+                    "name": "Biscoitos doces",
+                    "link": "/secoes/C85/biscoitos-doces?ftr=facetSubShelf_ss:85_Biscoitos doces",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5141,
+                    "name": "Biscoitos salgados",
+                    "link": "/secoes/C85/biscoitos-salgados?ftr=facetSubShelf_ss:85_Biscoitos salgados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 5161,
+                    "name": "Biscoitos doces recheadas",
+                    "link": "/secoes/C85/biscoitos-doces-recheadas?ftr=facetSubShelf_ss:85_Biscoitos doces recheadas",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 4661,
+            "link": "/secoes/C4661/automotivo",
+            "name": "Automotivo",
+            "icon": "/img/uploads/1/629/568629.jpg",
+            "subCategory": [{
+                    "id": 4662,
+                    "name": "Pneu aro 13",
+                    "link": "/secoes/C4661/pneu-aro-13?ftr=facetSubShelf_ss:4661_Pneu aro 13",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4681,
+                    "name": "Pneu aro 14",
+                    "link": "/secoes/C4661/pneu-aro-14?ftr=facetSubShelf_ss:4661_Pneu aro 14",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4682,
+                    "name": "Pneu aro 15",
+                    "link": "/secoes/C4661/pneu-aro-15?ftr=facetSubShelf_ss:4661_Pneu aro 15",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4787,
+                    "name": "Pneu aro 16",
+                    "link": "/secoes/C4661/pneu-aro-16?ftr=facetSubShelf_ss:4661_Pneu aro 16",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4788,
+                    "name": "Pneu aro 17",
+                    "link": "/secoes/C4661/pneu-aro-17?ftr=facetSubShelf_ss:4661_Pneu aro 17",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4789,
+                    "name": "Baterias Automotivas",
+                    "link": "/secoes/C4661/baterias-automotivas?ftr=facetSubShelf_ss:4661_Baterias Automotivas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4861,
+                    "name": "Acessórios",
+                    "link": "/secoes/C4661/acessorios?ftr=facetSubShelf_ss:4661_Acessórios",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 4441,
+            "link": "/secoes/C4441/higiene-bucal",
+            "name": "Higiene Bucal",
+            "icon": "/img/uploads/1/677/568677.jpg",
+            "subCategory": [{
+                    "id": 4442,
+                    "name": "Creme e Gel Dental",
+                    "link": "/secoes/C4441/creme-e-gel-dental?ftr=facetSubShelf_ss:4441_Creme e Gel Dental",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4443,
+                    "name": "Enxaguante Bucal",
+                    "link": "/secoes/C4441/enxaguante-bucal?ftr=facetSubShelf_ss:4441_Enxaguante Bucal",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4461,
+                    "name": "Escova Dental",
+                    "link": "/secoes/C4441/escova-dental?ftr=facetSubShelf_ss:4441_Escova Dental",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4462,
+                    "name": "Fio e Fita Dental",
+                    "link": "/secoes/C4441/fio-e-fita-dental?ftr=facetSubShelf_ss:4441_Fio e Fita Dental",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4463,
+                    "name": "Infantil",
+                    "link": "/secoes/C4441/infantil?ftr=facetSubShelf_ss:4441_Infantil",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 96,
+            "link": "/secoes/C96/bomboniere",
+            "name": "Bomboniere",
+            "icon": "/img/uploads/1/21/449021.jpg",
+            "subCategory": [{
+                    "id": 2365,
+                    "name": "Balas",
+                    "link": "/secoes/C96/balas?ftr=facetSubShelf_ss:96_Balas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2361,
+                    "name": "Barras de cereal",
+                    "link": "/secoes/C96/barras-de-cereal?ftr=facetSubShelf_ss:96_Barras de cereal",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2360,
+                    "name": "Bolos industralizados",
+                    "link": "/secoes/C96/bolos-industralizados?ftr=facetSubShelf_ss:96_Bolos industralizados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2359,
+                    "name": "Bolos, tortas e doces",
+                    "link": "/secoes/C96/bolos-tortas-e-doces?ftr=facetSubShelf_ss:96_Bolos, tortas e doces",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2364,
+                    "name": "Bombons",
+                    "link": "/secoes/C96/bombons?ftr=facetSubShelf_ss:96_Bombons",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2362,
+                    "name": "Chocolates",
+                    "link": "/secoes/C96/chocolates?ftr=facetSubShelf_ss:96_Chocolates",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2544,
+                    "name": "Salgadinhos e batatas",
+                    "link": "/secoes/C96/salgadinhos-e-batatas?ftr=facetSubShelf_ss:96_Salgadinhos e batatas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2363,
+                    "name": "Tabletes e waffer",
+                    "link": "/secoes/C96/tabletes-e-waffer?ftr=facetSubShelf_ss:96_Tabletes e waffer",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 456,
+            "link": "/secoes/C456/condimentos-e-conservas",
+            "name": "Condimentos e conservas",
+            "icon": "/img/uploads/1/33/449033.jpg",
+            "subCategory": [{
+                    "id": 2212,
+                    "name": "Atomatados",
+                    "link": "/secoes/C456/atomatados?ftr=facetSubShelf_ss:456_Atomatados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2216,
+                    "name": "Azeites",
+                    "link": "/secoes/C456/azeites?ftr=facetSubShelf_ss:456_Azeites",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2210,
+                    "name": "Conservas vegetais",
+                    "link": "/secoes/C456/conservas-vegetais?ftr=facetSubShelf_ss:456_Conservas vegetais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2214,
+                    "name": "Importados",
+                    "link": "/secoes/C456/importados?ftr=facetSubShelf_ss:456_Importados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2208,
+                    "name": "Legumes e grãos enlatados",
+                    "link": "/secoes/C456/legumes-e-graos-enlatados?ftr=facetSubShelf_ss:456_Legumes e grãos enlatados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2217,
+                    "name": "Molhos especiais",
+                    "link": "/secoes/C456/molhos-especiais?ftr=facetSubShelf_ss:456_Molhos especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2213,
+                    "name": "Molhos",
+                    "link": "/secoes/C456/molhos?ftr=facetSubShelf_ss:456_Molhos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2209,
+                    "name": "Palmitos e Azeitonas em conserva",
+                    "link": "/secoes/C456/palmitos-e-azeitonas-em-conserva?ftr=facetSubShelf_ss:456_Palmitos e Azeitonas em conserva",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2206,
+                    "name": "Peixes enlatados",
+                    "link": "/secoes/C456/peixes-enlatados?ftr=facetSubShelf_ss:456_Peixes enlatados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2211,
+                    "name": "Pratos prontos",
+                    "link": "/secoes/C456/pratos-prontos?ftr=facetSubShelf_ss:456_Pratos prontos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2215,
+                    "name": "Temperos e caldos",
+                    "link": "/secoes/C456/temperos-e-caldos?ftr=facetSubShelf_ss:456_Temperos e caldos",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 505,
+            "link": "/secoes/C505/farinhas-e-graos",
+            "name": "Farinhas e grãos",
+            "icon": "/img/uploads/1/39/449039.jpg",
+            "subCategory": [{
+                    "id": 2297,
+                    "name": "Aveias",
+                    "link": "/secoes/C505/aveias?ftr=facetSubShelf_ss:505_Aveias",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2300,
+                    "name": "Cereais em grãos",
+                    "link": "/secoes/C505/cereais-em-graos?ftr=facetSubShelf_ss:505_Cereais em grãos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2283,
+                    "name": "Farinhas de trigo e amidos de milho",
+                    "link": "/secoes/C505/farinhas-de-trigo-e-amidos-de-milho?ftr=facetSubShelf_ss:505_Farinhas de trigo e amidos de milho",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2302,
+                    "name": "Complementos alimentares",
+                    "link": "/secoes/C505/complementos-alimentares?ftr=facetSubShelf_ss:505_Complementos alimentares",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2285,
+                    "name": "Farináceos de mandioca",
+                    "link": "/secoes/C505/farinaceos-de-mandioca?ftr=facetSubShelf_ss:505_Farináceos de mandioca",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2291,
+                    "name": "Farináceos de milho",
+                    "link": "/secoes/C505/farinaceos-de-milho?ftr=facetSubShelf_ss:505_Farináceos de milho",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2293,
+                    "name": "Farofas prontas",
+                    "link": "/secoes/C505/farofas-prontas?ftr=facetSubShelf_ss:505_Farofas prontas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2294,
+                    "name": "Fermentos",
+                    "link": "/secoes/C505/fermentos?ftr=facetSubShelf_ss:505_Fermentos",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 1495,
+            "link": "/secoes/C1495/frios-",
+            "name": "Frios ",
+            "icon": "/img/uploads/1/631/568631.jpg",
+            "subCategory": [{
+                    "id": 2205,
+                    "name": "Frios especiais",
+                    "link": "/secoes/C1495/frios-especiais?ftr=facetSubShelf_ss:1495_Frios especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2207,
+                    "name": "Frios de aves",
+                    "link": "/secoes/C1495/frios-de-aves?ftr=facetSubShelf_ss:1495_Frios de aves",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2198,
+                    "name": "Mortadelas",
+                    "link": "/secoes/C1495/mortadelas?ftr=facetSubShelf_ss:1495_Mortadelas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2193,
+                    "name": "Presuntos",
+                    "link": "/secoes/C1495/presuntos?ftr=facetSubShelf_ss:1495_Presuntos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2188,
+                    "name": "Queijos cottage e ricota",
+                    "link": "/secoes/C1495/queijos-cottage-e-ricota?ftr=facetSubShelf_ss:1495_Queijos cottage e ricota",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2185,
+                    "name": "Queijos de búfala, cabra e ovelha",
+                    "link": "/secoes/C1495/queijos-de-bufala-cabra-e-ovelha?ftr=facetSubShelf_ss:1495_Queijos de búfala, cabra e ovelha",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2181,
+                    "name": "Queijos especiais",
+                    "link": "/secoes/C1495/queijos-especiais?ftr=facetSubShelf_ss:1495_Queijos especiais",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2183,
+                    "name": "Queijos de massa dura e cozida ",
+                    "link": "/secoes/C1495/queijos-de-massa-dura-e-cozida-?ftr=facetSubShelf_ss:1495_Queijos de massa dura e cozida ",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2180,
+                    "name": "Queijos frescos",
+                    "link": "/secoes/C1495/queijos-frescos?ftr=facetSubShelf_ss:1495_Queijos frescos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2186,
+                    "name": "Queijos para entradas",
+                    "link": "/secoes/C1495/queijos-para-entradas?ftr=facetSubShelf_ss:1495_Queijos para entradas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2182,
+                    "name": "Queijos prato e mussarela",
+                    "link": "/secoes/C1495/queijos-prato-e-mussarela?ftr=facetSubShelf_ss:1495_Queijos prato e mussarela",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2190,
+                    "name": "Queijos para Fondue",
+                    "link": "/secoes/C1495/queijos-para-fondue?ftr=facetSubShelf_ss:1495_Queijos para Fondue",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2191,
+                    "name": "Queijos processados e ralados",
+                    "link": "/secoes/C1495/queijos-processados-e-ralados?ftr=facetSubShelf_ss:1495_Queijos processados e ralados",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2184,
+                    "name": "Queijos provolone e coalho",
+                    "link": "/secoes/C1495/queijos-provolone-e-coalho?ftr=facetSubShelf_ss:1495_Queijos provolone e coalho",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2200,
+                    "name": "Salames e lombos",
+                    "link": "/secoes/C1495/salames-e-lombos?ftr=facetSubShelf_ss:1495_Salames e lombos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2203,
+                    "name": "Salsichas e linguiças",
+                    "link": "/secoes/C1495/salsichas-e-linguicas?ftr=facetSubShelf_ss:1495_Salsichas e linguiças",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 4561,
+            "link": "/secoes/C4561/finlandek",
+            "name": "Finlandek",
+            "icon": "/img/uploads/1/237/488237.jpg",
+            "subCategory": [{
+                    "id": 4581,
+                    "name": "Almofadas e Tapetes",
+                    "link": "/secoes/C4561/almofadas-e-tapetes?ftr=facetSubShelf_ss:4561_Almofadas e Tapetes",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4582,
+                    "name": "Itens para o Quarto",
+                    "link": "/secoes/C4561/itens-para-o-quarto?ftr=facetSubShelf_ss:4561_Itens para o Quarto",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4585,
+                    "name": "Utensílios de Cozinha",
+                    "link": "/secoes/C4561/utensilios-de-cozinha?ftr=facetSubShelf_ss:4561_Utensílios de Cozinha",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 4584,
+                    "name": "Outros",
+                    "link": "/secoes/C4561/outros?ftr=facetSubShelf_ss:4561_Outros",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 1275,
+            "link": "/secoes/C1275/resfriados",
+            "name": "Resfriados",
+            "icon": "/img/uploads/1/989/448989.jpg",
+            "subCategory": [{
+                    "id": 2187,
+                    "name": "Patês",
+                    "link": "/secoes/C1275/pates?ftr=facetSubShelf_ss:1275_Patês",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2189,
+                    "name": "Resfriados para culinária",
+                    "link": "/secoes/C1275/resfriados-para-culinaria?ftr=facetSubShelf_ss:1275_Resfriados para culinária",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2192,
+                    "name": "Massas e pastéis resfriados",
+                    "link": "/secoes/C1275/massas-e-pasteis-resfriados?ftr=facetSubShelf_ss:1275_Massas e pastéis resfriados",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        },
+        {
+            "id": 46,
+            "link": "/secoes/C46/sobremesas",
+            "name": "Sobremesas",
+            "icon": "/img/uploads/1/84/449084.jpg",
+            "subCategory": [{
+                    "id": 2223,
+                    "name": "Confeitaria",
+                    "link": "/secoes/C46/confeitaria?ftr=facetSubShelf_ss:46_Confeitaria",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2219,
+                    "name": "Doces prontos",
+                    "link": "/secoes/C46/doces-prontos?ftr=facetSubShelf_ss:46_Doces prontos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2221,
+                    "name": "Fondues",
+                    "link": "/secoes/C46/fondues?ftr=facetSubShelf_ss:46_Fondues",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2218,
+                    "name": "Frutas em caldas",
+                    "link": "/secoes/C46/frutas-em-caldas?ftr=facetSubShelf_ss:46_Frutas em caldas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2222,
+                    "name": "Gelatinas",
+                    "link": "/secoes/C46/gelatinas?ftr=facetSubShelf_ss:46_Gelatinas",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2220,
+                    "name": "Misturas para bolo",
+                    "link": "/secoes/C46/misturas-para-bolo?ftr=facetSubShelf_ss:46_Misturas para bolo",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2224,
+                    "name": "Outros doces semi-prontos",
+                    "link": "/secoes/C46/outros-doces-semi-prontos?ftr=facetSubShelf_ss:46_Outros doces semi-prontos",
+                    "bannerList": [
+
+                    ]
+                },
+                {
+                    "id": 2415,
+                    "name": "Sobremesas lácteas",
+                    "link": "/secoes/C46/sobremesas-lacteas?ftr=facetSubShelf_ss:46_Sobremesas lácteas",
+                    "bannerList": [
+
+                    ]
+                }
+            ],
+            "bannerList": [
+
+            ]
+        }
+    ]
+}

@@ -1,0 +1,714 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "success",
+    "content": {
+        "totalElements": 546,
+        "totalPages": 46,
+        "numberOfElements": 12,
+        "products": [{
+                "id": 142768,
+                "name": "Macarrão Italiano Capellini DE CECCO Pacote 500g",
+                "type": "simpleProduct",
+                "sku": "0171700",
+                "currentPrice": 8.95,
+                "sellPrice": 8.95,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Sêmola de trigo duro e água.<br><b>CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/678/545678x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/142768/macarrao-italiano-capellini-de-cecco-pacote-500g",
+                "mainShelfId": 2129,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2129,
+                        "name": "Massas de Grano Duro",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2127,
+                        "name": "Massas com Ovos e Massas de Sêmola",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/678/545678.jpg",
+                        "SMALL": "/img/uploads/1/678/545678x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/678/545678x200x200.jpg",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/128/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 214617,
+                "name": "Macarrão Italiano Penne Rigate TRA GRANI 500g",
+                "type": "simpleProduct",
+                "sku": "4751977",
+                "currentPrice": 6.75,
+                "sellPrice": 6.75,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Sêmola de trigo durum.<br><b>CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/441/566441x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/214617/macarrao-italiano-penne-rigate-tra-grani-500g",
+                "mainShelfId": 2129,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2129,
+                        "name": "Massas de Grano Duro",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2127,
+                        "name": "Massas com Ovos e Massas de Sêmola",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/441/566441.jpg",
+                        "SMALL": "/img/uploads/1/441/566441x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/441/566441x200x200.jpg",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/128/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 72088,
+                "name": "Sopa Americana de Brócolis CAMPBELL´S Lata 305g",
+                "type": "simpleProduct",
+                "sku": "0287180",
+                "currentPrice": 19.5,
+                "sellPrice": 19.5,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br> Água, brócolis, farinha de trigo, óleo vegetal, cebolas, creme de leite, sal, amido modificado, açúcar, soro de leite, proteína concentrada de soja , especiarias.",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/905/462905x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/72088/sopa-americana-de-brocolis-campbell´s-lata-305g",
+                "mainShelfId": 2136,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2136,
+                        "name": "Sopas Prontas",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/905/462905.jpg",
+                        "SMALL": "/img/uploads/1/905/462905x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/905/462905x200x200.jpg",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/8/118/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 361873,
+                "name": "Açúcar Orgânico Cristal ITAJÁ Pacote 1kg",
+                "type": "simpleProduct",
+                "sku": "1094925",
+                "currentPrice": 3.75,
+                "sellPrice": 3.75,
+                "nominalPrice": false,
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/534/564534x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/361873/acucar-organico-cristal-itaja-pacote-1kg",
+                "mainShelfId": 2142,
+                "shelfList": [{
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2142,
+                        "name": "Açúcar",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/534/564534.png",
+                        "SMALL": "/img/uploads/1/534/564534x80x80.png",
+                        "MEDIUM": "/img/uploads/1/534/564534x200x200.png",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/1621/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 214531,
+                "name": "Macarrão Italiano Lumaconi Giganti TRA GRANI Pacote 500g",
+                "type": "simpleProduct",
+                "sku": "4752066",
+                "currentPrice": 13.9,
+                "sellPrice": 13.9,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Sêmola de trigo duro.<br><b>CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/542/444542x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/214531/macarrao-italiano-lumaconi-giganti-tra-grani-pacote-500g",
+                "mainShelfId": 2129,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2129,
+                        "name": "Massas de Grano Duro",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2127,
+                        "name": "Massas com Ovos e Massas de Sêmola",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/542/444542.jpg",
+                        "SMALL": "/img/uploads/1/542/444542x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/542/444542x200x200.jpg",
+                        "ALLOWZOOM": false
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/128/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 86563,
+                "name": "Macarrão com Ovos Caseiro Talharim N°1 QUALITÁ Pacote 500g",
+                "type": "simpleProduct",
+                "sku": "6238469",
+                "currentPrice": 4.25,
+                "sellPrice": 4.25,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Sêmola de trigo enriquecida com ferro e ácido fólico, ovos desidratados e betacaroteno.<br><b>CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/117/560117x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/86563/macarrao-com-ovos-caseiro-talharim-n°1-qualita-pacote-500g",
+                "mainShelfId": 2130,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2130,
+                        "name": "Massas Caseiras e Integrais",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/117/560117.jpg",
+                        "SMALL": "/img/uploads/1/117/560117x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/117/560117x200x200.jpg",
+                        "ALLOWZOOM": true
+                    },
+                    "1": {
+                        "BIG": "/img/uploads/1/841/461841.jpg",
+                        "SMALL": "/img/uploads/1/841/461841x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/841/461841x200x200.jpg",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/128/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 159497,
+                "name": "Macarrão Instantâneo NISSIN Lámen Espaguete 500g",
+                "type": "simpleProduct",
+                "sku": "0250160",
+                "currentPrice": 6.95,
+                "sellPrice": 6.95,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Farinha de trigo enriquecida com ferro e ácido fólico, sal, gema em pó, ovo integral em pó, estabilizante tripolifosfato de sódio, reguladores de acidez carbonato de potássio carbonato de sódio, corante beta caroteno e vitaminas PP (niacina), B6 (riboflavina) e B1 (tiamina).<br><b>CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/998/565998x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/159497/macarrao-instantaneo-nissin-lamen-espaguete-500g",
+                "mainShelfId": 2133,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2133,
+                        "name": "Macarrão Instantâneo",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/998/565998.png",
+                        "SMALL": "/img/uploads/1/998/565998x80x80.png",
+                        "MEDIUM": "/img/uploads/1/998/565998x200x200.png",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/196/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 420560,
+                "name": "Macarrão Instantâneo CUP NOODLES Frutos do Mar 65g",
+                "type": "simpleProduct",
+                "sku": "1182053",
+                "currentPrice": 3.49,
+                "sellPrice": 3.49,
+                "nominalPrice": false,
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/445/573445x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/420560/macarrao-instantaneo-cup-noodles-frutos-do-mar-65g",
+                "mainShelfId": 2133,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2133,
+                        "name": "Macarrão Instantâneo",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/445/573445.png",
+                        "SMALL": "/img/uploads/1/445/573445x80x80.png",
+                        "MEDIUM": "/img/uploads/1/445/573445x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "1": {
+                        "BIG": "/img/uploads/1/444/573444.png",
+                        "SMALL": "/img/uploads/1/444/573444x80x80.png",
+                        "MEDIUM": "/img/uploads/1/444/573444x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "2": {
+                        "BIG": "/img/uploads/1/443/573443.png",
+                        "SMALL": "/img/uploads/1/443/573443x80x80.png",
+                        "MEDIUM": "/img/uploads/1/443/573443x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "3": {
+                        "BIG": "/img/uploads/1/442/573442.png",
+                        "SMALL": "/img/uploads/1/442/573442x80x80.png",
+                        "MEDIUM": "/img/uploads/1/442/573442x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "4": {
+                        "BIG": "/img/uploads/1/441/573441.png",
+                        "SMALL": "/img/uploads/1/441/573441x80x80.png",
+                        "MEDIUM": "/img/uploads/1/441/573441x200x200.png",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/196/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 420563,
+                "name": "Macarrão Instantâneo CUP NOODLES Sabor Queijo Cheddar 69g",
+                "type": "simpleProduct",
+                "sku": "1182029",
+                "currentPrice": 3.49,
+                "sellPrice": 3.49,
+                "nominalPrice": false,
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/455/573455x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/420563/macarrao-instantaneo-cup-noodles-sabor-queijo-cheddar-69g",
+                "mainShelfId": 2133,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2133,
+                        "name": "Macarrão Instantâneo",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/455/573455.png",
+                        "SMALL": "/img/uploads/1/455/573455x80x80.png",
+                        "MEDIUM": "/img/uploads/1/455/573455x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "1": {
+                        "BIG": "/img/uploads/1/454/573454.png",
+                        "SMALL": "/img/uploads/1/454/573454x80x80.png",
+                        "MEDIUM": "/img/uploads/1/454/573454x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "2": {
+                        "BIG": "/img/uploads/1/453/573453.png",
+                        "SMALL": "/img/uploads/1/453/573453x80x80.png",
+                        "MEDIUM": "/img/uploads/1/453/573453x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "3": {
+                        "BIG": "/img/uploads/1/452/573452.png",
+                        "SMALL": "/img/uploads/1/452/573452x80x80.png",
+                        "MEDIUM": "/img/uploads/1/452/573452x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "4": {
+                        "BIG": "/img/uploads/1/451/573451.png",
+                        "SMALL": "/img/uploads/1/451/573451x80x80.png",
+                        "MEDIUM": "/img/uploads/1/451/573451x200x200.png",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/196/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 361872,
+                "name": "Açúcar Orgânico Cristal ITAJÁ Pacote 500g",
+                "type": "simpleProduct",
+                "sku": "1094926",
+                "currentPrice": 1.88,
+                "sellPrice": 1.88,
+                "nominalPrice": false,
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/533/564533x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/361872/acucar-organico-cristal-itaja-pacote-500g",
+                "mainShelfId": 2142,
+                "shelfList": [{
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2142,
+                        "name": "Açúcar",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/533/564533.png",
+                        "SMALL": "/img/uploads/1/533/564533x80x80.png",
+                        "MEDIUM": "/img/uploads/1/533/564533x200x200.png",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/1621/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 29056,
+                "name": "Arroz Parboilizado Tipo 1 Original UNCLE BEN'S Pacote 1kg com 8 Saquinhos",
+                "type": "simpleProduct",
+                "sku": "0154109",
+                "currentPrice": 3.99,
+                "sellPrice": 3.99,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingrediente:</b><br> Arroz parboilizado.<br><b>NÃO CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/240/531240x50x50.jpg",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/29056/arroz-parboilizado-tipo-1-original-uncle-bens-pacote-1kg-com-8-saquinhos",
+                "mainShelfId": 2124,
+                "shelfList": [{
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    },
+                    {
+                        "active": true,
+                        "id": 2124,
+                        "name": "Arroz Especial",
+                        "parentId": 312
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/240/531240.jpg",
+                        "SMALL": "/img/uploads/1/240/531240x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/240/531240x200x200.jpg",
+                        "ALLOWZOOM": true
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/5/1366/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            },
+            {
+                "id": 131085,
+                "name": "Sal Refinado Light LEBRE Saleiro 100g",
+                "type": "simpleProduct",
+                "sku": "6227463",
+                "currentPrice": 6.25,
+                "sellPrice": 6.25,
+                "nominalPrice": false,
+                "shortDescription": "<b>Ingredientes:</b><br>Sal refinado, cloreto de potássio, iodado de potássio, antiumectantes, ferrocionaneto de sódio (INS 535) e sílico aluminato de sódio (INS 554) e dióxido de silíco (INS 551).<br><b>NÃO CONTÉM GLÚTEN.</b>",
+                "alcoholic": false,
+                "stock": true,
+                "validOnStore": true,
+                "thumbPath": "/img/uploads/1/421/569421x50x50.png",
+                "priceType": "P",
+                "totalQuantity": 0,
+                "urlDetails": "/produto/131085/sal-refinado-light-lebre-saleiro-100g",
+                "mainShelfId": 2145,
+                "shelfList": [{
+                        "active": true,
+                        "id": 2145,
+                        "name": "Sal",
+                        "parentId": 312
+                    },
+                    {
+                        "active": true,
+                        "id": 312,
+                        "name": "Alimentos"
+                    }
+                ],
+                "mapOfImages": {
+                    "0": {
+                        "BIG": "/img/uploads/1/421/569421.png",
+                        "SMALL": "/img/uploads/1/421/569421x80x80.png",
+                        "MEDIUM": "/img/uploads/1/421/569421x200x200.png",
+                        "ALLOWZOOM": true
+                    },
+                    "1": {
+                        "BIG": "/img/uploads/1/896/374896.jpg",
+                        "SMALL": "/img/uploads/1/896/374896x80x80.jpg",
+                        "MEDIUM": "/img/uploads/1/896/374896x200x200.jpg",
+                        "ALLOWZOOM": false
+                    }
+                },
+                "priceProgressiveMap": {
+
+                },
+                "commercialStructure": "/8/199/",
+                "attributes": {
+
+                },
+                "departments": [
+
+                ],
+                "simpleProduct": true,
+                "kit": false,
+                "homogeneousKit": false,
+                "heterogeneousKit": false
+            }
+        ],
+        "categories": [{
+            "active": true,
+            "id": 312,
+            "name": "Alimentos"
+        }]
+    }
+}

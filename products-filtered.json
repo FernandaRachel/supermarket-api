@@ -1,0 +1,97 @@
+[{
+        "name": "Macarrão Italiano Capellini DE CECCO Pacote 500g",
+        "price": 8.95,
+        "sellPrice": 8.95,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/678/545678x50x50.jpg",
+        "group": { "name": "Massa" }
+    },
+    {
+        "name": "Macarrão Italiano Penne Rigate TRA GRANI 500g",
+        "price": 6.75,
+        "sellPrice": 6.75,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/441/566441x50x50.jpg",
+        "group": { "name": "Massa" }
+    },
+    {
+        "name": "Sopa Americana de Brócolis CAMPBELL´S Lata 305g",
+        "price": 19.5,
+        "sellPrice": 19.5,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/905/462905x50x50.jpg",
+        "group": { "name": "Sopa" }
+    },
+    {
+        "name": "Açúcar Orgânico Cristal ITAJÁ Pacote 1kg",
+        "price": 3.75,
+        "sellPrice": 3.75,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/534/564534x50x50.png",
+        "group": { "name": "Açucar" }
+    },
+    {
+        "name": "Macarrão Italiano Lumaconi Giganti TRA GRANI Pacote 500g",
+        "price": 13.9,
+        "sellPrice": 13.9,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/542/444542x50x50.jpg",
+        "group": { "name": "Massa" }
+    },
+    {
+        "name": "Macarrão com Ovos Caseiro Talharim N°1 QUALITÁ Pacote 500g",
+        "price": 4.25,
+        "sellPrice": 4.25,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/117/560117x50x50.jpg",
+        "group": { "name": "Massa" }
+    },
+    {
+        "name": "Macarrão Instantâneo NISSIN Lámen Espaguete 500g",
+        "price": 6.95,
+        "sellPrice": 6.95,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/998/565998x50x50.png",
+        "group": { "name": "Massa Instantanea" }
+    },
+    {
+        "name": "Macarrão Instantâneo CUP NOODLES Frutos do Mar 65g",
+        "price": 3.49,
+        "sellPrice": 3.49,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/445/573445x50x50.png",
+        "group": { "name": "Massa Instantanea" }
+    },
+    {
+        "name": "Macarrão Instantâneo CUP NOODLES Sabor Queijo Cheddar 69g",
+        "price": 3.49,
+        "sellPrice": 3.49,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/455/573455x50x50.png",
+        "group": { "name": "Massa Instantanea" }
+    },
+    {
+        "name": "Açúcar Orgânico Cristal ITAJÁ Pacote 500g",
+        "price": 1.88,
+        "sellPrice": 1.88,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/533/564533x50x50.png",
+        "group": { "name": "Açucar" }
+    },
+    {
+        "name": "Arroz Parboilizado Tipo 1 Original UNCLE BEN'S Pacote 1kg com 8 Saquinhos",
+        "price": 3.99,
+        "sellPrice": 3.99,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/240/531240x50x50.jpg",
+        "group": { "name": "Grãos" }
+    },
+    {
+        "name": "Sal Refinado Light LEBRE Saleiro 100g",
+        "price": 6.25,
+        "sellPrice": 6.25,
+        "totalQuantity": 15,
+        "thumbPath": "/img/uploads/1/421/569421x50x50.png",
+        "group": { "name": "Sal" }
+    }
+]

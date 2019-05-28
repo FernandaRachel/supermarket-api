@@ -27,3 +27,21 @@
 {"message":"Schema Products called !","level":"info","service":"user-service"}
 {"message":"Rotas produtos OK","level":"info","service":"user-service"}
 {"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"MONGOLAB_URI: undefined","level":"info","service":"user-service"}
+{"message":"Schema Products called !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"NODE_ENV: development","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"MONGOLAB_URI: undefined","level":"info","service":"user-service"}
+{"message":"Schema Products called !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"NODE_ENV: development","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"MONGOLAB_URI: undefined","level":"info","service":"user-service"}
+{"message":"Schema Products called !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"NODE_ENV: development","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}

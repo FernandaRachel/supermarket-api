@@ -1,4 +1,5 @@
 const products = require('../db/models/products.model');
+const logger = require('../config/logger.config')();
 
 module.exports = {
     getAll: function(resp) {
@@ -6,11 +7,14 @@ module.exports = {
         search.exec(function(err, data) {
             console.log(data)
             if (err) {
+                logger.info(err.message)
                 return err;
             }
             if (data) {
+                logger.info('Retornando dados')
                 return resp.send(data)
             } else {
+                logger.info('Não há dados para a pesquisa feita')
                 return resp.send({ message: 'Não há dados para a pesquisa feita' })
             }
         });
@@ -21,11 +25,14 @@ module.exports = {
         search.exec(function(err, data) {
             console.log(data)
             if (err) {
+                logger.info(err.message)
                 return err;
             }
             if (data) {
+                logger.info('Retornando dados')
                 return resp.send(data)
             } else {
+                logger.info('Não há dados para a pesquisa feita')
                 return resp.send({ message: 'Não há dados para a pesquisa feita' })
             }
         });

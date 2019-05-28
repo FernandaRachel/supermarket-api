@@ -1,6 +1,6 @@
 var mongoose = require('mongoose')
-
-console.log('Schema Products called !');
+const logger = require('../../config/logger.config')();
+logger.info('Schema Products called !');
 
 var ProductsSchema = new mongoose.Schema({
     name: { type: String, required: true },

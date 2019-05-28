@@ -1,8 +1,9 @@
-var express = require('express');
-var app = express();
-var cors = require('cors');
-var bodyParser = require('body-parser');
-var load = require('express-load'); // expose dependencies to application
+const express = require('express');
+const app = express();
+const cors = require('cors');
+const bodyParser = require('body-parser');
+const load = require('express-load'); // expose dependencies to application
+const logger = require('../config/logger.config')();
 
 module.exports = function() {
     app.use(cors());
@@ -14,12 +15,13 @@ module.exports = function() {
     }));
 
 
-    app.listen(3001, () => console.log('Application started !'));
+    app.listen(3001, () => logger.info('Application started !'));
     // app.get('/', (req, res) => res.send('Ola'));
 
     load('routes', {
         cwd: 'products-api'
     }).into(app);
+
 
     return app;
 }

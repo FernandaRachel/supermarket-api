@@ -1,0 +1,29 @@
+{"service":"user-service","message":"helloworld","level":"info"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}
+{"message":"Application started !","level":"info","service":"user-service"}
+{"message":"Schema Products called !","level":"info","service":"user-service"}
+{"message":"Rotas produtos OK","level":"info","service":"user-service"}
+{"message":"Database connected","level":"info","service":"user-service"}

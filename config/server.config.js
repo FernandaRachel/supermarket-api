@@ -14,8 +14,8 @@ module.exports = function() {
         type: 'application/json'
     }));
 
-
-    app.listen(3001, () => logger.info('Application started !'));
+    let port = process.env.PORT ? process.env.PORT : 3001;
+    app.listen(port, () => logger.info('Application started !'));
     // app.get('/', (req, res) => res.send('Ola'));
 
     load('routes', {
